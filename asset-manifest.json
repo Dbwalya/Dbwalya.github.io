@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.03c93841.css",
+    "main.js": "/static/js/main.6fc93fd8.js",
+    "static/js/787.6e1d442e.chunk.js": "/static/js/787.6e1d442e.chunk.js",
+    "static/media/header-image.jpg": "/static/media/header-image.ca3d103e3d8a40dafcce.jpg",
+    "static/media/kuncho logo2.jpg": "/static/media/kuncho logo2.072384f53a87f57eefc4.jpg",
+    "static/media/mic.JPG": "/static/media/mic.c4418ae4103ecfc4317b.JPG",
+    "index.html": "/index.html",
+    "main.03c93841.css.map": "/static/css/main.03c93841.css.map",
+    "main.6fc93fd8.js.map": "/static/js/main.6fc93fd8.js.map",
+    "787.6e1d442e.chunk.js.map": "/static/js/787.6e1d442e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03c93841.css",
+    "static/js/main.6fc93fd8.js"
+  ]
+}
